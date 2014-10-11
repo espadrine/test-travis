@@ -1,4 +1,7 @@
-test-travis
-===========
+# What I test Travis for
 
-This is for testing purposes. Give it all your stars!
+- [Shields.io][]
+- Unicode support
+- .travis.yml syntax
+
+[Shields.io]: http://shields.io
