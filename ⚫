@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+console.log('told you this was just a test!')
