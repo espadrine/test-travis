@@ -1,2 +1,9 @@
 #!/usr/bin/env node
-console.log('all tests pass')
+var pass = false;
+
+if (pass) {
+  console.log('all tests pass');
+} else {
+  console.log('failure');
+  throw new Error('Curse this sudden but inevitable betrayal!');
+}
