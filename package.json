@@ -1,0 +1,28 @@
+{
+  "name": "test-travis",
+  "version": "0.0.1",
+  "description": "Look at the name.",
+  "keywords": ["test", "travis", "CI", "woohoo"],
+  "homepage": "http://example.com",
+  "bugs": {
+    "url": "https://github.com/espadrine/test-travis/issues",
+    "email": "thaddee.tyl@gmail.com"
+  },
+  "license": "CC0",
+  "author": "Thaddée Tyl <thaddee.tyl@gmail.com>",
+  "main": "⚫",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espadrine/test-travis"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "node ✓"
+  },
+  "files": [
+    "⚫",
+    "✓",
+  ],
+  "engines": { "node": "0.10.x" }
+}
